@@ -25,4 +25,4 @@ Este projeto não possui licença aberta.
 
 ## 📧 Contato
 Se quiser falar comigo:  
-- ✉️ Email: **contatofilipespan@gmail.com**  
+- ✉️ Email: **filipespan@gmail.com**  
